@@ -26,7 +26,7 @@ it also includes the output of the R code implementation
 ## Y: follow up time 
 ## delta: indicator for event (delta=1) or censoring (delta=0)
 
-(2) data.biomarker: data for the biomarker subsample, it includes the following variables
+(3) data.biomarker: data for the biomarker subsample, it includes the following variables
 
 ## W1 and W2: replicate biomarker value
 ## Q: self-reported dietary intake
