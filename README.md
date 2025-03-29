@@ -1,6 +1,6 @@
 MEcorrection
 
-Using biomarker subsample to correcting for measuremet error in self-reported dietary intake when estimating quadratic and quantile exposure effects on disease hazard in Cox model  
+Using biomarker subsample to correcting for measurement error in self-reported dietary intake when estimating quadratic and quantile exposure effects on disease hazard in Cox model  
 
 This folder contains the following files:
 
